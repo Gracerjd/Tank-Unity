@@ -1,0 +1,45 @@
+# Unity 生成目录
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+/[Mm]emoryCaptures/
+/[Rr]ecordings/
+
+# IDE / 工程文件
+.vs/
+.vscode/
+.idea/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+.vsconfig
+
+# JetBrains / Asset Store 工具缓存
+/[Aa]ssets/[Aa]ssetStoreTools*
+/[Aa]ssets/Plugins/Editor/JetBrains*
+
+# 第三方美术、字体、音频资源（不随仓库分发）
+/[Aa]ssets/[Aa]rt[Rr]es/
+
+# 个人文件
+/Resume/
+/$null
+
+# 系统
+.DS_Store
+Thumbs.db
+*.log
