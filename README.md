@@ -9,11 +9,12 @@
 - 鼠标左右移动：转动炮塔
 - 鼠标左键：开火
 - 沿途消灭敌人坦克，开到最后面的终点即可通关；血量归零则失败
+- 关卡过程中有各种道具掉落，还有不同的奖励方块
 - 通关后可录入名字，成绩按用时排序存进排行榜（本地保存）
 
 | 开始界面 | 战斗画面 |
 |:---:|:---:|
-| ![开始界面](Assets/Screenshots/BeginScene_gameview_gui.png) | ![战斗画面](Assets/Screenshots/GameScene_overview.png) |
+| ![开始界面](Assets/Prefabs/Game/Picture/31.png) | ![战斗画面](Assets/Prefabs/Game/Picture/32.png) |
 
 ## 核心实现
 
